@@ -1,16 +1,16 @@
-## Hi there 👋
+## Introducing Myself 🙋🏻‍♀️
+Hi there! I'm Sumit, a self-taught data analyst. I transitioned to data and have been teaching myself Excel, SQL, Power BI, Python and Machine Learning.
 
-<!--
-**sumitkumar042014/sumitkumar042014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💡 My Skills
+Data preparation, quality assurance, and analysis
+Dashboard development and reporting
+Exploratory data analysis
+Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ My Tools
+Databases: SQL (MySQL, PostgreSQL)
+Visualisation: Power BI/ Tableau
+Excel
+Packages: NumPy, Pandas, Matplotlib, Seaborn  
+Others : Machine Learning
