@@ -1,4 +1,4 @@
-## Introducing Myself 🙋🏻‍♀️
+# Introducing Myself 🙋🏻‍♀️
 Hi there! I'm Sumit, a self-taught data analyst. I transitioned to data and have been teaching myself Excel, SQL, Power BI, Python and Machine Learning.
 
 
