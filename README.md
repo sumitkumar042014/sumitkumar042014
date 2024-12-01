@@ -1,25 +1,27 @@
-# Introducing Myself 🙋
-Hi there! I'm Sumit, a self-taught data analyst. I transitioned to data and have been teaching myself Excel, SQL, Power BI, Python and Machine Learning.
+# Hi, I'm Sumit Kumar! 👋
 
+Welcome to my GitHub profile!  
+I am a self-taught Data Analyst. I transitioned to data and have been teaching my self about Excel, SQL, Tableau, Power BI, Python and Machine Learning.
 
+---
 
-💡 My Skills
-Data preparation, quality assurance, and analysis
-Dashboard development and reporting
-Exploratory data analysis
-Machine Learning
+## About Me
+- 🌱 I’m currently learning about Big Data
+- 👯 I’m looking to collaborate based on my skills and Knowledge. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sumit-k-sharma-2464a61a4/)
 
+---
 
+## My Skills
 
-🛠️ My Tools
-Databases: SQL (MySQL, PostgreSQL)
-Visualisation: Power BI/ Tableau
-Excel
-Packages: NumPy, Pandas, Matplotlib, Seaborn  
-Others : Machine Learning
+- Data preparation, quality assurance, and analysis
+- Dashboard development and reporting
+- Exploratory data analysis
+- Prediction Analysis
 
-
-
-🙌🏻 Connect with Me
-Linkedin
-https://www.linkedin.com/in/sumit-k-sharma-2464a61a4/
+  
+## My Tools
+- Pycharm
+- Jupyter Notebook
+- Tableau / Power BI
+  
